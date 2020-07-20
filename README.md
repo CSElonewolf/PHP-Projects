@@ -70,7 +70,7 @@ Click OK.
 
 | Projects   | Youtube Links  | Github Code Link|
 |------------|------------|------------|
-| Login System |[Youtube Video Link](https://youtu.be/LHEDlSTEfL4)  |[Github Code Link](https://youtu.be/LHEDlSTEfL4) |
+| Login System |[Youtube Video Link](https://youtu.be/LHEDlSTEfL4)  |[Github Code Link](https://github.com/CSElonewolf/PHP-Projects/tree/master/PHP%20Project-1) |
 
 ## ➤ Contributors
 	
