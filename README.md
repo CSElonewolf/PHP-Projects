@@ -1,6 +1,7 @@
 # PHP-Projects
 PHP: Hypertext Preprocessor.PHP is a popular general-purpose scripting language that is especially suited to web development. Fast, flexible and pragmatic.This repository contains all the PHP Projects that I built so far
 
+## ➤ Features of PHP
 
 * **Simple**:It is very simple and easy to use, compare to other scripting language it is very simple and easy, this is widely used all over the world.
 * **Faster**: It is faster than other scripting language e.g. asp and jsp.
@@ -23,7 +24,7 @@ Step 5: Configure PHP as an Apache module.
 Step 6: Test a PHP file
 ```
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/demo.gif" alt="Demo" width="800" />
+  <img src="https://github.com/CSElonewolf/PHP-Projects/blob/master/ReadmeImages/php-features.png" alt="Demo" width="800" />
 </p>
 
 
@@ -39,7 +40,7 @@ Step 5: test your installation. ...
 Step 6: change the root password
 ```
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/demo.gif" alt="Demo" width="800" />
+  <img src="https://github.com/CSElonewolf/PHP-Projects/blob/master/ReadmeImages/mysql%20features.png" alt="Demo" width="800" />
 </p>
 
 
@@ -59,17 +60,24 @@ Select an installation location. ...
 Click OK.
 ```
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/demo.gif" alt="Demo" width="800" />
+  <img src="https://github.com/CSElonewolf/PHP-Projects/blob/master/ReadmeImages/xampp.jpg" alt="Demo" width="800" />
 </p>
  
  [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#contributor)
 
+
+### Project Video Demos
+
+| Projects   | Youtube Links  | Github Code Link|
+|------------|------------|------------|
+| Login System |[Youtube Video Link](https://youtu.be/LHEDlSTEfL4)  |[Github Code Link](https://youtu.be/LHEDlSTEfL4) |
+
 ## ➤ Contributors
 	
 
-| [<img alt="Andreas Mehlsen" src="https://avatars1.githubusercontent.com/u/6267397?s=460&v=4" width="100">] |  |
+| [<img alt="Devkant Gorai" src="https://github.com/CSElonewolf/PHP-Projects/blob/master/ReadmeImages/CSElonewolf.jpg" width="100">] |  |
 |:--------------------------------------------------:|:--------------------------------------------------:|
-| [Andreas Mehlsen](https://twitter.com/andreasmehlsen) |  |
+| [Devkant Gorai](https://github.com/CSElonewolf) |  |
 | 🔥                                               |                                                  |
 
 ```json
@@ -86,9 +94,3 @@ Click OK.
   ]
 }
 ```
-
-### Demos
-
-| Projects   | Youtube Links  |
-|------------|------------|
-| Login System | | 
