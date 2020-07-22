@@ -10,6 +10,12 @@ PHP: Hypertext Preprocessor.PHP is a popular general-purpose scripting language 
 * **Platform Independent**: PHP code will be run on every platform, Linux, Unix, Mac OS X, Windows.
 * **Error Reporting**: PHP have some predefined error reporting constants to generate a warning or error notice.
 
+### Project Video Demos
+
+| Projects   | Youtube Links  | Github Code Link|
+|------------|------------|------------|
+| Login System |[Youtube Video Link](https://youtu.be/LHEDlSTEfL4)  |[Github Code Link](https://github.com/CSElonewolf/PHP-Projects/tree/master/PHP%20Project-1) |
+| Technical Course/blog project |Not yet uploaded |[Github Code Link](https://github.com/CSElonewolf/PHP-Projects/tree/master/PHP%20Project-2) |
 
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#phpinstallation)
@@ -65,12 +71,6 @@ Click OK.
  
  [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#contributor)
 
-
-### Project Video Demos
-
-| Projects   | Youtube Links  | Github Code Link|
-|------------|------------|------------|
-| Login System |[Youtube Video Link](https://youtu.be/LHEDlSTEfL4)  |[Github Code Link](https://github.com/CSElonewolf/PHP-Projects/tree/master/PHP%20Project-1) |
 
 ## ➤ Contributors
 	
